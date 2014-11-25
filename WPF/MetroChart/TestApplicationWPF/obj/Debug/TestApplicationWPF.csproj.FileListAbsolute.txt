@@ -1,0 +1,40 @@
+D:\TFS2010\MetroChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.exe.config
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csprojResolveAssemblyReference.cache
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\MainWindow.baml
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\Skins\MainSkin.baml
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\App.baml
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\MainWindow.g.cs
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\App.g.cs
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF_MarkupCompile.cache
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF_MarkupCompile.lref
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.exe
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.pdb
+D:\TFS2010\MetroChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.exe
+D:\TFS2010\MetroChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.pdb
+D:\TFS2010\MetroChart\TestApplicationWPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+D:\TFS2010\MetroChart\TestApplicationWPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\Themes\Generic.baml
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.g.resources
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.Properties.Resources.resources
+D:\TFS2010\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csproj.GenerateResource.Cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.exe.config
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.exe
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.exe
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\bin\Debug\TestApplicationWPF.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\bin\Debug\De.TorstenMandelkow.MetroChart.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\bin\Debug\De.TorstenMandelkow.MetroChart.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\MainWindow.baml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\Skins\MainSkin.baml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\App.baml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\MainWindow.g.cs
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\App.g.cs
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF_MarkupCompile.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF_MarkupCompile.lref
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\Themes\Generic.baml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.g.resources
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.Properties.Resources.resources
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\MetroChart\TestApplicationWPF\obj\Debug\TestApplicationWPF.csproj.GenerateResource.Cache

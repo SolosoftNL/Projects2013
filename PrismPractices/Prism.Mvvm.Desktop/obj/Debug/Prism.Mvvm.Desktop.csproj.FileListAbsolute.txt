@@ -1,0 +1,13 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\bin\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\bin\Debug\Microsoft.Practices.Prism.Mvvm.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\bin\Debug\Microsoft.Practices.Prism.Mvvm.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\bin\Debug\Microsoft.Practices.Prism.Mvvm.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\obj\Debug\Prism.Mvvm.Desktop.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\obj\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.Properties.Resources.resources
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\obj\Debug\Prism.Mvvm.Desktop.csproj.GenerateResource.Cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\obj\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.Mvvm.Desktop\obj\Debug\Microsoft.Practices.Prism.Mvvm.Desktop.pdb

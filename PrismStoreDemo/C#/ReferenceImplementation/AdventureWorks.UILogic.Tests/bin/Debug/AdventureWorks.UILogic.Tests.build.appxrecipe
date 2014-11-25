@@ -1,0 +1,101 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RONALD-DESKTOP</Machine>
+    <WindowsUser>Ronald</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>b3b69d44-9974-4d80-a75f-498d074fc616</PackageIdentityName>
+    <IntermediateOutputPath>E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\bin\Debug\AdventureWorks.UILogic.Tests.dll">
+      <PackagePath>AdventureWorks.UILogic.Tests.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll">
+      <PackagePath>Microsoft.Practices.Prism.PubSubEvents.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.StoreApps\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll">
+      <PackagePath>Microsoft.Practices.Prism.StoreApps.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic\bin\Debug\AdventureWorks.UILogic.dll">
+      <PackagePath>AdventureWorks.UILogic.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\bin\Debug\AdventureWorks.UILogic.Tests.pdb">
+      <PackagePath>AdventureWorks.UILogic.Tests.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.pdb">
+      <PackagePath>Microsoft.Practices.Prism.PubSubEvents.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.StoreApps\bin\Debug\Microsoft.Practices.Prism.StoreApps.pdb">
+      <PackagePath>Microsoft.Practices.Prism.StoreApps.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic\bin\Debug\AdventureWorks.UILogic.pdb">
+      <PackagePath>AdventureWorks.UILogic.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.AppContainer.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\References\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.UnitTestFramework.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\MSTestFramework\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Extensions.MSAppContainerAdapter.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.ObjectModel.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.ObjectModel.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.TestExecutor.Core.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\Microsoft.VisualStudio.TestPlatform.Utilities.dll">
+      <PackagePath>Microsoft.VisualStudio.TestPlatform.Utilities.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.exe">
+      <PackagePath>vstest.executionengine.appcontainer.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\TestPlatform\11.0\Redist\CommonConfiguration\neutral\vstest.executionengine.appcontainer.x86.exe">
+      <PackagePath>vstest.executionengine.appcontainer.x86.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\Images\UnitTestLogo.png">
+      <PackagePath>Images\UnitTestLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\Images\UnitTestSmallLogo.png">
+      <PackagePath>Images\UnitTestSmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\Images\UnitTestSplashScreen.png">
+      <PackagePath>Images\UnitTestSplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\Images\UnitTestStoreLogo.png">
+      <PackagePath>Images\UnitTestStoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

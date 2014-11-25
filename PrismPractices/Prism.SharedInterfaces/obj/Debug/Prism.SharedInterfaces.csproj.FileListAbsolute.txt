@@ -1,0 +1,6 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.SharedInterfaces\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.XML
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.SharedInterfaces\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.SharedInterfaces\bin\Debug\Microsoft.Practices.Prism.SharedInterfaces.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.SharedInterfaces\obj\Debug\Prism.SharedInterfaces.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.SharedInterfaces\obj\Debug\Microsoft.Practices.Prism.SharedInterfaces.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismPractices\Prism.SharedInterfaces\obj\Debug\Microsoft.Practices.Prism.SharedInterfaces.pdb

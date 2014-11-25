@@ -1,0 +1,13 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\AdventureWorks.WebServices.Tests.dll.config
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\AdventureWorks.WebServices.Tests.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\AdventureWorks.WebServices.Tests.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\AdventureWorks.WebServices.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\System.Web.Mvc.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\System.Net.Http.Formatting.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\Newtonsoft.Json.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\AdventureWorks.WebServices.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\System.Web.Mvc.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\bin\Debug\System.Net.Http.Formatting.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\obj\Debug\AdventureWorks.WebServices.Tests.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\obj\Debug\AdventureWorks.WebServices.Tests.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.WebServices.Tests\obj\Debug\AdventureWorks.WebServices.Tests.pdb

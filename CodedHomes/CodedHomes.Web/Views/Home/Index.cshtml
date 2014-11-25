@@ -1,0 +1,71 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+    ViewBag.IncludeManifest = true;
+}
+
+@section styles {
+    <style>
+        .jumbotron {
+            margin: 80px 0;
+            text-align: center;
+        }
+
+            .jumbotron h1 {
+                font-size: 7em;
+                line-height: 1;
+            }
+
+            .jumbotron .lead {
+                font-size: 24px;
+                line-height: 1.25;
+            }
+
+            .jumbotron .btn {
+                font-size: 21px;
+                padding: 14px 24px;
+            }
+
+        header img[alt="CodedHomes"] {
+            display: inline;
+        }
+    </style>
+}
+
+@section scripts {
+    <script>
+    $(function() {
+
+        var
+            showOnlineLayout = function() {
+                $('.offline').fadeOut(function() {
+                    $('.online').fadeIn();
+                });
+            },
+
+            showOfflineLayout = function() {
+                $('.online').fadeOut(function() {
+                    $('.offline').fadeIn();
+                });
+            };
+
+        var offlineUtility = new OfflineUtility(showOnlineLayout, showOfflineLayout);
+    });
+
+    </script>
+}
+
+<div class="container">
+    <div class="jumbotron">
+        <div><img src="~/img/coded-homes-logo-large.png"></div>
+        <p class="lead">De leider in huisverkoop voor de regio Alkmaar.</p>
+
+        <div class="online deferred">
+            <a class="btn btn-primary btn-large" href="/homes">Overzicht alle huizen</a>
+            <a class="btn btn-primary btn-large" href="/homes/new">Voeg een nieuw huis toe</a>
+        </div>
+
+        <div class="offline deferred">
+            <a class="btn btn-danger btn-large" href="/homes/offline">Voeg een nieuw huis toe</a>
+        </div>
+    </div>
+</div>

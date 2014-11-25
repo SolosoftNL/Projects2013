@@ -1,0 +1,179 @@
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\CodedHomes.Web.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\CodedHomes.Web.pdb
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Antlr3.Runtime.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\CodedHomes.Data.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\CodedHomes.Models.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DataAnnotationsExtensions.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.Core.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Elmah.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Elmah.Mvc.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\EntityFramework.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Microsoft.Data.Edm.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Microsoft.Data.OData.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Newtonsoft.Json.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Net.Http.Formatting.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Spatial.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Helpers.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Http.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Http.OData.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Http.WebHost.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Mvc.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Optimization.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Razor.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.WebPages.Deployment.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.WebPages.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.WebPages.Razor.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\WebGrease.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\WebMatrix.Data.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\WebMatrix.WebData.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\CodedHomes.Data.pdb
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\CodedHomes.Models.pdb
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Newtonsoft.Json.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\EntityFramework.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Net.Http.Formatting.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Helpers.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Http.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Http.WebHost.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Mvc.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Razor.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.WebPages.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.WebPages.Deployment.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.WebPages.Razor.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\WebMatrix.Data.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\WebMatrix.WebData.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.Core.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Web.Http.OData.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Microsoft.Data.Edm.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\Microsoft.Data.OData.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\System.Spatial.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\de\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\es\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\fr\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\it\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ja\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ko\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\ru\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\obj\Debug\CodedHomes.Web.csprojResolveAssemblyReference.cache
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\obj\Debug\CodedHomes.Web.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Web\obj\Debug\CodedHomes.Web.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\CodedHomes.Web.dll.config
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\CodedHomes.Web.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\CodedHomes.Web.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Antlr3.Runtime.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\CodedHomes.Data.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\CodedHomes.Models.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DataAnnotationsExtensions.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.AspNet.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.Core.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.OAuth.Consumer.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.OAuth.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.OpenId.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Elmah.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Elmah.Mvc.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\EntityFramework.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Microsoft.Data.Edm.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Microsoft.Data.OData.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Microsoft.Web.Infrastructure.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Microsoft.Web.WebPages.OAuth.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Newtonsoft.Json.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Spatial.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Helpers.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Http.OData.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Mvc.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Optimization.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Razor.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.WebPages.Deployment.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.WebPages.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.WebPages.Razor.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\WebGrease.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\WebMatrix.Data.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\WebMatrix.WebData.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\CodedHomes.Data.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\CodedHomes.Models.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Newtonsoft.Json.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\EntityFramework.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Helpers.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Mvc.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Razor.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.WebPages.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.WebPages.Deployment.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.WebPages.Razor.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\WebMatrix.Data.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Microsoft.Web.WebPages.OAuth.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\WebMatrix.WebData.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.AspNet.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.Core.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.OAuth.Consumer.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.OAuth.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.OpenId.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Web.Http.OData.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Microsoft.Data.Edm.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\Microsoft.Data.OData.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\System.Spatial.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\de\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\es\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\fr\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\it\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ja\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ko\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ru\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\de\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\es\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\fr\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\it\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ja\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ko\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ru\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\de\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\es\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\fr\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\it\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ja\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ko\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\ru\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\zh-Hans\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\bin\zh-Hant\System.Spatial.resources.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\obj\Debug\CodedHomes.Web.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\obj\Debug\CodedHomes.Web.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Web\obj\Debug\CodedHomes.Web.pdb

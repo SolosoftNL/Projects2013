@@ -1,0 +1,1 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\HelloWorldWithContainer.csproj;neutral

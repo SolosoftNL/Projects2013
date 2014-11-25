@@ -1,0 +1,5 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes\bin\Debug\CodedHomes.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes\bin\Debug\CodedHomes.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes\obj\Debug\CodedHomes.Models.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes\obj\Debug\CodedHomes.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes\obj\Debug\CodedHomes.pdb

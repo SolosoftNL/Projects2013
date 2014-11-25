@@ -1,0 +1,40 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Data.Entity.ModelConfiguration;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CodedHomes.Data.Configuration
+{
+    public class HomeConfiguration : EntityTypeConfiguration<Home>
+    {
+        public HomeConfiguration()
+        {
+            this.Property(p => p.StreetAdress)
+                .IsRequired().HasMaxLength(100);
+
+            this.Property(p => p.StreetAdress2)
+                .IsOptional().HasMaxLength(100);
+
+
+            this.Property(p => p.City)
+                .IsRequired().HasMaxLength(50);
+
+            this.Property(p => p.ZipCode)
+                .IsRequired();
+
+            //this.Property(p=>p.Bathrooms)
+            //    this.Property(p=>p.Bedrooms)
+            //        this.Property(p=>p.SquareFeet
+            //            this.Property(p=>p.Price)
+            //                this.Property(p=>p.Description)
+            //                    this.Property(p=>p.ImageName
+            this.Property(p => p.CreatedOn)
+                .IsRequired().HasColumnType("datetime");
+            this.Property(p => p.ModifiedOn).IsRequired().HasColumnType("datetime");
+
+
+        }
+    }
+}

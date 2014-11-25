@@ -1,0 +1,10 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll.CodeAnalysisLog.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll.lastcodeanalysissucceeded
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.Properties.Resources.resources
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.csproj.GenerateResource.Cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\obj\Debug\Microsoft.Practices.Prism.PubSubEvents.pdb

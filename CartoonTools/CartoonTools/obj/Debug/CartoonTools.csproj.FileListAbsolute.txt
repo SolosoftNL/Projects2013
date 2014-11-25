@@ -1,0 +1,6 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CartoonTools\CartoonTools\bin\CartoonTools.dll.config
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CartoonTools\CartoonTools\bin\CartoonTools.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CartoonTools\CartoonTools\bin\CartoonTools.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CartoonTools\CartoonTools\obj\Debug\CartoonTools.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CartoonTools\CartoonTools\obj\Debug\CartoonTools.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CartoonTools\CartoonTools\obj\Debug\CartoonTools.pdb

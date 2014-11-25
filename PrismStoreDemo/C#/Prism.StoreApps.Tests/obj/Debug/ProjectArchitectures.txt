@@ -1,0 +1,2 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.StoreApps.Tests\Microsoft.Practices.Prism.StoreApps.Tests.csproj;neutral
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.StoreApps\Microsoft.Practices.Prism.StoreApps.csproj;neutral

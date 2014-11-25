@@ -1,0 +1,16 @@
+Z:\MyCollege\PluralSight\Implementing an API in ASP.NET Web API\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\m1\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll.config
+Z:\MyCollege\PluralSight\Implementing an API in ASP.NET Web API\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\m1\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll
+Z:\MyCollege\PluralSight\Implementing an API in ASP.NET Web API\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\m1\Baseline\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.pdb
+Z:\MyCollege\PluralSight\Implementing an API in ASP.NET Web API\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\m1\Baseline\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.dll
+Z:\MyCollege\PluralSight\Implementing an API in ASP.NET Web API\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\m1\Baseline\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.xml
+Z:\MyCollege\PluralSight\Implementing an API in ASP.NET Web API\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\m1\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.csprojResolveAssemblyReference.cache
+Z:\MyCollege\PluralSight\Implementing an API in ASP.NET Web API\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\m1\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.dll
+Z:\MyCollege\PluralSight\Implementing an API in ASP.NET Web API\implementing-restful-aspdotnet-web-api\2-restful-aspdotnet-m1-exercise-files\m1\Baseline\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.pdb
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll.config
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.dll
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\CountingKs\CountingKs.Data\bin\Debug\CountingKs.Data.pdb
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.dll
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\CountingKs\CountingKs.Data\bin\Debug\EntityFramework.xml
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.csprojResolveAssemblyReference.cache
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.dll
+C:\Users\Ronald\Documents\Visual Studio 2013\Projects\CountingKs\CountingKs.Data\obj\Debug\CountingKs.Data.pdb

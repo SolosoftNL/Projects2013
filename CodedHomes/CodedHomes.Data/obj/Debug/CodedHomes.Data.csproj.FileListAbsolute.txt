@@ -1,0 +1,12 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\obj\Debug\CodedHomes.Data.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.Data.dll.config
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.Data.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.Data.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\EntityFramework.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\CodedHomes.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\EntityFramework.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\obj\Debug\CodedHomes.Data.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CodedHomes\CodedHomes.Data\obj\Debug\CodedHomes.Data.pdb

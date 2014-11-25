@@ -1,0 +1,12 @@
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Models\bin\Debug\CodedHomes.Models.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Models\bin\Debug\CodedHomes.Models.pdb
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Models\bin\Debug\DataAnnotationsExtensions.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Models\obj\Debug\CodedHomes.Models.csprojResolveAssemblyReference.cache
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Models\obj\Debug\CodedHomes.Models.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Models\obj\Debug\CodedHomes.Models.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Models\bin\Debug\CodedHomes.Models.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Models\bin\Debug\CodedHomes.Models.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Models\bin\Debug\DataAnnotationsExtensions.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Models\obj\Debug\CodedHomes.Models.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Models\obj\Debug\CodedHomes.Models.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Models\obj\Debug\CodedHomes.Models.pdb

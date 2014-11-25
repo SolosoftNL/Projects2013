@@ -1,0 +1,6 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\Microsoft.Practices.Prism.PubSubEvents.csproj;neutral
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\Microsoft.Practices.Prism.PubSubEvents.csproj;neutral
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.StoreApps\Microsoft.Practices.Prism.StoreApps.csproj;neutral
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.StoreApps\Microsoft.Practices.Prism.StoreApps.csproj;neutral
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic.Tests\AdventureWorks.UILogic.Tests.csproj;neutral
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic\AdventureWorks.UILogic.csproj;neutral

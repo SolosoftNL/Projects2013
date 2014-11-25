@@ -1,0 +1,17 @@
+﻿<section data-bind="with: saveEmployee">
+    <div class="col-lg-10">
+        <input type="text" class="form-control" id="inputEmail" placeholder="First name" data-bind="value:firstName">
+    </div>
+    <br />
+    <br />
+    <br />
+    <div class="col-lg-10">
+        <input type="text" class="form-control" id="Text1" placeholder="Last name" data-bind="value:lastName">
+    </div>
+    <br />
+    <br />
+    <br />
+    <div class="col-lg-10">
+        <button class="btn btn-default" data-bind="click: $parent.saveEmployeeDetails">save</button>
+    </div>
+</section>

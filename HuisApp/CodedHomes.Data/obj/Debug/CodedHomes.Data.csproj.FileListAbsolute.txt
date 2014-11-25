@@ -1,0 +1,22 @@
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\bin\Debug\CodedHomes.Data.dll.config
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\bin\Debug\CodedHomes.Data.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\bin\Debug\CodedHomes.Data.pdb
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\bin\Debug\CodedHomes.Models.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\bin\Debug\DataAnnotationsExtensions.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\bin\Debug\EntityFramework.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\bin\Debug\CodedHomes.Models.pdb
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\bin\Debug\EntityFramework.xml
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\obj\Debug\CodedHomes.Data.csprojResolveAssemblyReference.cache
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\obj\Debug\CodedHomes.Data.dll
+C:\Users\craig\Documents\Authoring\HTML5 LOB\src\DEV\CodedHomes.Data\obj\Debug\CodedHomes.Data.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\bin\Debug\CodedHomes.Data.dll.config
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\bin\Debug\CodedHomes.Data.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\bin\Debug\CodedHomes.Data.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\bin\Debug\CodedHomes.Models.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\bin\Debug\DataAnnotationsExtensions.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\bin\Debug\EntityFramework.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\bin\Debug\CodedHomes.Models.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\bin\Debug\EntityFramework.xml
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\obj\Debug\CodedHomes.Data.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\obj\Debug\CodedHomes.Data.dll
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\HuisApp\CodedHomes.Data\obj\Debug\CodedHomes.Data.pdb

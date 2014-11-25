@@ -1,0 +1,38 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Welkom bij de CartoonShop!</title>
+    <script src="../Scripts/angular.js"></script>
+    <script src="app.js"></script>
+</head>
+<body ng-app="">
+
+    <input type="text" name="naam"  />
+    <div ng-bind="naam">{{naam}}</div>
+
+
+
+
+    <table ng-init="personen=[
+              {"naam":"ronald",
+           "leeftijd" :  39},
+           {"naam" :"Marcel" ,
+           "leeftijd" : 40}]"
+           >
+
+
+        <thead>
+            <tr>
+                <td>Naam</td>
+                <td>Leeftijd</td>
+            </tr>
+        </thead>
+        <tbody>
+            <tr ng-repeat="persoon in personen">
+                <td>{{persoon.naam}}</td>
+                <td>{{persoon.leeftijd}}</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
+</html>

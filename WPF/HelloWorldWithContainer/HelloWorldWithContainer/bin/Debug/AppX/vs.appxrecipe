@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RONALD-DESKTOP</Machine>
+    <WindowsUser>Ronald</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>Microsoft.Practices.HelloWorldWithContainer.CS</PackageIdentityName>
+    <IntermediateOutputPath>E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>66E90D80B31307757FBE028EAB06F099C0DA4CCC085070C8608AFE69B926EE46</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>Microsoft.Practices.HelloWorldWithContainer.CS_1.1.0.0_neutral__8wekyb3d8bbwe</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>Microsoft.Practices.HelloWorldWithContainer.CS_8wekyb3d8bbwe!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>Microsoft.Practices.HelloWorldWithContainer.CS</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-03T18:49:14.167</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\bin\Debug\HelloWorldWithContainer.exe">
+      <PackagePath>HelloWorldWithContainer.exe</PackagePath>
+      <Modified>2014-11-03T19:00:41.064</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\packages\Prism.StoreApps.1.1.0\lib\windows8\Microsoft.Practices.Prism.StoreApps.dll">
+      <PackagePath>Microsoft.Practices.Prism.StoreApps.dll</PackagePath>
+      <Modified>2014-11-03T18:48:58.511</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\packages\Unity.3.0.1304.1\lib\NetCore45\Microsoft.Practices.Unity.NetCore.dll">
+      <PackagePath>Microsoft.Practices.Unity.NetCore.dll</PackagePath>
+      <Modified>2014-11-03T18:44:56.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-03T18:42:53.876</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-03T18:42:53.887</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-03T18:42:53.896</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-11-03T18:42:53.903</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-11-03T18:49:13.560</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\bin\Debug\Views\MainPage.xbf">
+      <PackagePath>Views\MainPage.xbf</PackagePath>
+      <Modified>2014-11-03T19:00:40.892</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\bin\Debug\Views\UserInputPage.xbf">
+      <PackagePath>Views\UserInputPage.xbf</PackagePath>
+      <Modified>2014-11-03T18:49:13.565</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\bin\Debug\HelloWorldWithContainer.xr.xml">
+      <PackagePath>HelloWorldWithContainer.xr.xml</PackagePath>
+      <Modified>2014-11-03T18:49:13.395</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\WPF\HelloWorldWithContainer\HelloWorldWithContainer\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-11-03T18:49:13.952</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

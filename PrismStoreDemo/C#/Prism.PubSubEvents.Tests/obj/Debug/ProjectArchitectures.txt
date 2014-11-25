@@ -1,0 +1,2 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents.Tests\Microsoft.Practices.Prism.PubSubEvents.Tests.csproj;neutral
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\Microsoft.Practices.Prism.PubSubEvents.csproj;neutral

@@ -1,0 +1,6 @@
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CSharpTests\ProjectEuler\bin\Debug\ProjectEuler.exe.config
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CSharpTests\ProjectEuler\bin\Debug\ProjectEuler.exe
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CSharpTests\ProjectEuler\bin\Debug\ProjectEuler.pdb
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CSharpTests\ProjectEuler\obj\Debug\ProjectEuler.csprojResolveAssemblyReference.cache
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CSharpTests\ProjectEuler\obj\Debug\ProjectEuler.exe
+E:\LocalDocs\Documents\Visual Studio 2013\Projects\CSharpTests\ProjectEuler\obj\Debug\ProjectEuler.pdb

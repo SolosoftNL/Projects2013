@@ -1,0 +1,276 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>RONALD-DESKTOP</Machine>
+    <WindowsUser>Ronald</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>AdventureWorks.Shopper.CSharp</PackageIdentityName>
+    <IntermediateOutputPath>E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>111E4E8142F5CF2F700CD237EA737D78840A6B9D32D5DC9216EFDFBF3CE15DF3</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>AdventureWorks.Shopper.CSharp_1.1.0.4_neutral__mc4wj1f4h8fhj</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>AdventureWorks.Shopper.CSharp_mc4wj1f4h8fhj!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>AdventureWorks.Shopper.CSharp</RegisteredPackageID>
+    <RegisteredPackagePublisher>C=US, S=Washington, L=Redmond, O=Microsoft Corporation, CN=Microsoft Corporation</RegisteredPackagePublisher>
+    <RegisteredVersion>1.1.0.4</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-10-18T16:02:08.661</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\AdventureWorks.Shopper.exe">
+      <PackagePath>AdventureWorks.Shopper.exe</PackagePath>
+      <Modified>2014-10-18T16:28:08.881</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactions.dll">
+      <PackagePath>Microsoft.Xaml.Interactions.dll</PackagePath>
+      <Modified>2014-04-29T12:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.1\ExtensionSDKs\BehaviorsXamlSDKManaged\12.0\References\CommonConfiguration\Neutral\Microsoft.Xaml.Interactivity.dll">
+      <PackagePath>Microsoft.Xaml.Interactivity.dll</PackagePath>
+      <Modified>2014-04-29T12:23:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic\bin\Debug\AdventureWorks.UILogic.dll">
+      <PackagePath>AdventureWorks.UILogic.dll</PackagePath>
+      <Modified>2014-10-18T16:02:04.363</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.PubSubEvents\bin\Debug\Microsoft.Practices.Prism.PubSubEvents.dll">
+      <PackagePath>Microsoft.Practices.Prism.PubSubEvents.dll</PackagePath>
+      <Modified>2014-10-18T16:01:59.080</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\Prism.StoreApps\bin\Debug\Microsoft.Practices.Prism.StoreApps.dll">
+      <PackagePath>Microsoft.Practices.Prism.StoreApps.dll</PackagePath>
+      <Modified>2014-10-18T16:01:59.188</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\packages\Unity.3.0.1304.0\lib\NetCore45\Microsoft.Practices.Unity.NetCore.dll">
+      <PackagePath>Microsoft.Practices.Unity.NetCore.dll</PackagePath>
+      <Modified>2014-10-18T16:01:37.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.UILogic\bin\Debug\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2014-10-18T16:01:47.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\BannerLogo.png">
+      <PackagePath>Assets\BannerLogo.png</PackagePath>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\billingAddressLogo.png">
+      <PackagePath>Assets\billingAddressLogo.png</PackagePath>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\paymentMethodLogo.png">
+      <PackagePath>Assets\paymentMethodLogo.png</PackagePath>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\shippingAddressLogo.png">
+      <PackagePath>Assets\shippingAddressLogo.png</PackagePath>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\WideLogo.scale-180.png">
+      <PackagePath>Assets\WideLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\Assets\WideLogo.scale-80.png">
+      <PackagePath>Assets\WideLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2014-08-23T05:37:39.781</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.624</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Themes\AWShopperStyles.xbf">
+      <PackagePath>Themes\AWShopperStyles.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.626</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Themes\DataTemplates.xbf">
+      <PackagePath>Themes\DataTemplates.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.628</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\BillingAddressPage.xbf">
+      <PackagePath>Views\BillingAddressPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.632</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\BillingAddressUserControl.xbf">
+      <PackagePath>Views\BillingAddressUserControl.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\CategoryPage.xbf">
+      <PackagePath>Views\CategoryPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.637</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ChangeDefaultsFlyout.xbf">
+      <PackagePath>Views\ChangeDefaultsFlyout.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.639</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\CheckoutHubPage.xbf">
+      <PackagePath>Views\CheckoutHubPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.641</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\CheckoutSummaryPage.xbf">
+      <PackagePath>Views\CheckoutSummaryPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.643</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\GroupDetailPage.xbf">
+      <PackagePath>Views\GroupDetailPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.645</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\HubPage.xbf">
+      <PackagePath>Views\HubPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ItemDetailPage.xbf">
+      <PackagePath>Views\ItemDetailPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.649</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\OrderConfirmationPage.xbf">
+      <PackagePath>Views\OrderConfirmationPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.652</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\PaymentMethodPage.xbf">
+      <PackagePath>Views\PaymentMethodPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.654</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\PaymentMethodUserControl.xbf">
+      <PackagePath>Views\PaymentMethodUserControl.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.656</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SearchResultsPage.xbf">
+      <PackagePath>Views\SearchResultsPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.659</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SearchUserControl.xbf">
+      <PackagePath>Views\SearchUserControl.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.661</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ShippingAddressPage.xbf">
+      <PackagePath>Views\ShippingAddressPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.663</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ShippingAddressUserControl.xbf">
+      <PackagePath>Views\ShippingAddressUserControl.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.665</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ShoppingCartPage.xbf">
+      <PackagePath>Views\ShoppingCartPage.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.668</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\ShoppingCartTabUserControl.xbf">
+      <PackagePath>Views\ShoppingCartTabUserControl.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.670</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SignInFlyout.xbf">
+      <PackagePath>Views\SignInFlyout.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.672</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SignInUserControl.xbf">
+      <PackagePath>Views\SignInUserControl.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.674</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\SignOutFlyout.xbf">
+      <PackagePath>Views\SignOutFlyout.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.676</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\Views\TopAppBarUserControl.xbf">
+      <PackagePath>Views\TopAppBarUserControl.xbf</PackagePath>
+      <Modified>2014-10-18T16:02:07.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\AdventureWorks.Shopper.xr.xml">
+      <PackagePath>AdventureWorks.Shopper.xr.xml</PackagePath>
+      <Modified>2014-10-18T16:02:07.428</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="E:\LocalDocs\Documents\Visual Studio 2013\Projects\PrismStoreDemo\C#\ReferenceImplementation\AdventureWorks.Shopper\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2014-10-18T16:28:09.331</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
