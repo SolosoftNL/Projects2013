@@ -1,4 +1,5 @@
-﻿using System;
+﻿using GalaSoft.MvvmLight.Messaging;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Net;
@@ -17,6 +18,9 @@ namespace MvvmLight1
         public MainPage()
         {
             InitializeComponent();
+
+            Loaded += (sender, e) =>
+                Messenger.Default.Send(new NotificationMessage(sender.ToString()));
         }
     }
 }

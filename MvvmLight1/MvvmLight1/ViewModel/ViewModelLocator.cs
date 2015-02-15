@@ -39,6 +39,8 @@ namespace MvvmLight1.ViewModel
             }
 
             SimpleIoc.Default.Register<MainViewModel>();
+            //RW
+            SimpleIoc.Default.Register<PersonViewModel>();
         }
 
         /// <summary>
@@ -54,6 +56,17 @@ namespace MvvmLight1.ViewModel
                 return ServiceLocator.Current.GetInstance<MainViewModel>();
             }
         }
+
+
+        public PersonViewModel Person
+        {
+            get
+            {
+                return ServiceLocator.Current.GetInstance<PersonViewModel>();
+            }
+        }
+
+
 
         /// <summary>
         /// Cleans up all the resources.

@@ -1,5 +1,10 @@
 ﻿using GalaSoft.MvvmLight;
+using GalaSoft.MvvmLight.Command;
+using GalaSoft.MvvmLight.Messaging;
 using MvvmLight1.Model;
+using System.Windows;
+
+
 
 namespace MvvmLight1.ViewModel
 {
@@ -19,6 +24,48 @@ namespace MvvmLight1.ViewModel
         public const string WelcomeTitlePropertyName = "WelcomeTitle";
 
         private string _welcomeTitle = string.Empty;
+
+
+        public RelayCommand<string> SayHelloCommand { get; private set; }
+
+        #region Counter
+        /// <summary>
+        /// The <see cref="Counter" /> property's name.
+        /// </summary>
+        public const string CounterPropertyName = "Counter";
+
+        private int _counter = 0;
+
+        /// <summary>
+        /// Sets and gets the Counter property.
+        /// Changes to that property's value raise the PropertyChanged event. 
+        /// </summary>
+        public int Counter
+        {
+            get
+            {
+                return _counter;
+            }
+
+            set
+            {
+                if (_counter == value)
+                {
+                    return;
+                }
+
+                _counter = value;
+                RaisePropertyChanged(CounterPropertyName);
+                SayHelloCommand.RaiseCanExecuteChanged();
+            }
+        }
+        #endregion
+
+        public string Message { get {return "Hello Nuget"; }  }
+
+        
+
+
 
         /// <summary>
         /// Gets the WelcomeTitle property.
@@ -48,7 +95,7 @@ namespace MvvmLight1.ViewModel
         /// </summary>
         public MainViewModel(IDataService dataService)
         {
-            _dataService = dataService;
+            _dataService = dataService; 
             _dataService.GetData(
                 (item, error) =>
                 {
@@ -60,7 +107,27 @@ namespace MvvmLight1.ViewModel
 
                     WelcomeTitle = item.Title;
                 });
+
+
+
+            //RW
+            SayHelloCommand = new RelayCommand<string>(
+                Showmessage, (s) => _counter % 2 == 0);
+
+
         }
+
+        public void Showmessage(string obj)
+        {
+            MessageBox.Show("Hello ," + obj);
+                        
+        }
+
+
+        
+
+
+
 
         ////public override void Cleanup()
         ////{
@@ -68,5 +135,7 @@ namespace MvvmLight1.ViewModel
 
         ////    base.Cleanup();
         ////}
+
+
     }
 }
